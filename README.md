@@ -1,10 +1,13 @@
 # PyPor
 
 <h2>Description</h2>
-PyPor is a simple port scanner that was entirely made with Python. When the scanner has completed the scan it will print the results and it will identify the ports that are open or closed or filtered. The test was conducted in a isolated virtual environment with my own local host ip address.
+PyPor is a simple port scanner that was entirely made with Python. When the scanner has completed the scan it will print the results and it will identify the ports that are open or closed or filtered. The test was conducted in an isolated virtual environment with my own local host ip address. 
 
 <h2>Environment Tested On </h2>
-<b>Kali Linux 2024.1 </b>
+
+- <b>Kali Linux 2024.1 </b>
+
+<h2> Installation </h2>
 
 <h2> Scan Results/Outcome Demo</h2>
 
