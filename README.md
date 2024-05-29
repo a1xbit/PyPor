@@ -5,10 +5,21 @@ PyPor is a simple port scanner that was entirely made with Python. When the scan
 
 <h2>Environment Tested On </h2>
 
-- <b>Kali Linux 2024.1 </b>
+- <b>Kali Linux 2024.1 (ARM64) </b>
 
 <h2> Installation </h2>
-<b> git clone </b>
+
+1) git clone https://github.com/a1xbit/PyPor.git
+
+2) cd PyPor
+
+
+<h2> Usage </h2>
+
+1) python pypor.py
+
+2) Enter IP Address
+
 
 <h2> Scan Results/Outcome Demo</h2>
 
