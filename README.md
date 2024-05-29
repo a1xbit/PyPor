@@ -8,6 +8,7 @@ PyPor is a simple port scanner that was entirely made with Python. When the scan
 - <b>Kali Linux 2024.1 </b>
 
 <h2> Installation </h2>
+<b> git clone </b>
 
 <h2> Scan Results/Outcome Demo</h2>
 
